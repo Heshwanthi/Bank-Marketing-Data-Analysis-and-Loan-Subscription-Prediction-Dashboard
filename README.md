@@ -1,0 +1,2 @@
+# Bank-Marketing-Data-Analysis-and-Loan-Subscription-Prediction-Dashboard
+A data science project on bank marketing data where I predicted loan application using ML. Modeled using Logistic Regression, Random Forest, and XGBoost with SMOTE for imbalance handling. XGBoost achieved 96% accuracy. Additionally, I developed an interactive Power BI dashboard to visualize key insights, model results, and business trends.
